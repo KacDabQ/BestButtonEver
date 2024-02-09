@@ -44,7 +44,8 @@ body {
 
 .button > #font {
   background: 0;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: 135%;
 }
 body:has(button:active) {
